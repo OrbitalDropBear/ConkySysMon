@@ -6,3 +6,6 @@ Conky is a free, light-weight system monitor for X, that displays any informatio
 Modified the default conky script in ~/.config/conky/conky.conf
 
 Requires fonts from: https://github.com/helmuthdu/conky_colors
+
+![Screenshot](https://raw.githubusercontent.com/OrbitalDropBear/ConkySysMon/master/ConkyScreenshot.png)
+
